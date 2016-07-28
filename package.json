@@ -30,6 +30,10 @@
   ],
   "license": "MIT",
   "main": "dist/js/select2.js",
+  "files": [
+    "src",
+    "dist"
+  ],
   "version": "4.0.0",
   "jspm": {
     "main": "js/select2",
@@ -53,6 +57,6 @@
     "grunt-gh-pages": "^0.9.1",
     "grunt-jekyll": "^0.4.2",
     "grunt-sass": "^1.0.0",
-    "grunt-saucelabs": "^8.5.0"
+    "grunt-saucelabs": "^8.6.0"
   }
 }
